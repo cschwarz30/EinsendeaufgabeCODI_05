@@ -1,6 +1,6 @@
 public class BubbleSortExample {
 
-    static void bubbleSort(int[] array) {
+    static void bubbleSortIntegerArray(int[] array) {
         int n = array.length;
         int temp = 0;
         boolean swapped;
